@@ -15,3 +15,6 @@
 ---display:flex;
 ---align-itens:center;
 }
+.container_imagem{
+    padding:1em;
+}
